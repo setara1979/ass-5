@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(200, 215, 243);
+   width: 1220px;
+   margin:  auto;
+   /* margin-top: 20px; */
+   padding: 50px;
+   padding-top: 1%;
+
+}
+.nav{
+    border-bottom: 5px solid #6b710e;
+    margin-bottom: 1%;
+    
+}
